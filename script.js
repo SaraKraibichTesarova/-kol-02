@@ -16,5 +16,6 @@ const email = {
 
 
 document.body.innerHTML += `
+    <h1> Váš FIT e-mail: </h1>
     <p> ${email.userName + email.domain} </p>
 `
